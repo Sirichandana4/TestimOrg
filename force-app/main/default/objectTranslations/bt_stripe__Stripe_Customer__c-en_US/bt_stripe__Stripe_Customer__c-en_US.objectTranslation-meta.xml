@@ -1,2 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<CustomObjectTranslation></CustomObjectTranslation>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <layouts>
+        <layout>Stripe Customer Layout</layout>
+        <sections>
+            <label></label>
+            <section>Addresses</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Custom Links</section>
+        </sections>
+        <sections>
+            <label></label>
+            <section>Related To</section>
+        </sections>
+    </layouts>
+</CustomObjectTranslation>
