@@ -587,7 +587,7 @@
         <members>AuthorizationFormConsent-Authorization Form Consent Layout</members>
         <members>AuthorizationFormDataUse-Authorization Form Data Use Layout</members>
         <members>AuthorizationFormText-Authorization Form Text Layout</members>
-        <<members>bt_stripe__Stripe_Customer__c-bt_stripe__Stripe Customer Layout</members>
+        <members>bt_stripe__Stripe_Customer__c-bt_stripe__Stripe Customer Layout</members>
 		<members>bt_stripe__Payment_Method__c-bt_stripe__Charge Card</members>
 		<members>bt_stripe__Payment_Method__c-bt_stripe__ACH %28Bank Account%29</members>
 		<members>bt_stripe__Payment_Method__c-bt_stripe__Other</members>
